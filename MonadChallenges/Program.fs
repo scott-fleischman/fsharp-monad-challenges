@@ -1,4 +1,4 @@
 ﻿[<EntryPoint>]
-let main argv = 
+let main argv =
     printfn "Challenge accepted"
     0
