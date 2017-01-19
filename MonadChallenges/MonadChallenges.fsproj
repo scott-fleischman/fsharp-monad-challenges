@@ -49,6 +49,8 @@
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="MCPrelude.fs" />
+    <Compile Include="Set2.fs" />
+    <Compile Include="Set3.fs" />
     <Compile Include="Program.fs" />
     <None Include="App.config" />
   </ItemGroup>
